@@ -17,7 +17,11 @@ The project visualizes how robotic systems move and demonstrates how independent
 - Python
 - Mathematics
 - Robotics Fundamentals
+- RRR
+- PRR
+- PPR
 - Visualization Techniques
+  
 
 ---
 
