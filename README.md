@@ -47,6 +47,38 @@ The project visualizes how robotic systems move and demonstrates how independent
 
 ---
 
+## 🚀 Getting Started
+
+### Requirements
+- Python 3.x
+- Jupyter Notebook, if using the notebook version
+- The Python libraries imported by the selected version
+
+### Run the Project
+1. Clone or download this repository.
+2. Install the required libraries.
+3. Open the main notebook in Jupyter Notebook or JupyterLab, or run the main Python script.
+4. Explore the supported robot configurations and observe how the joints contribute to the system's degrees of freedom.
+
+### 📸 Project Preview
+Screenshots of the working simulator and its supported configurations will be added here.
+
+### 🧪 Example Use Case
+Select a supported robot configuration, identify its joint types, and examine how the independent joint movements contribute to its degrees of freedom.
+
+### 📌 Current Scope
+DOF Explorer is an educational simulator for exploring robot configurations and fundamental kinematics concepts. Its calculations and visualizations are limited to the configurations and features implemented in the current version.
+
+### 🔮 Future Scope
+- Interactive joint controls
+- 3D robot visualization
+- Forward and inverse kinematics
+- Basic trajectory planning
+
+
+
+---
+
 ## 🤖 Example Exploration
 
 ### Robotic Arm
